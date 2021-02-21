@@ -20,9 +20,9 @@ This is an implementation of a Linux shell written in C language.
 
 * **pwd** - Present Working directory
 
-* **mkdir <dir>** - Make a directory (Alerts if already exists)
+* **mkdir** - Make a directory (Alerts if already exists)
 
-* **rmdir <dir>** - Remove the directory (Alerts if no such file or directory)
+* **rmdir** - Remove the directory (Alerts if no such file or directory)
 
 * **echo** - Write arguments to the standard output
 
