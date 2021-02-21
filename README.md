@@ -32,4 +32,4 @@ This is an implementation of a Linux shell written in C language.
  
 * **exit** - Exit the shell ; also works for **z**
 
-* Supports running **other commands** (such as scripting commands like touch & cat, python, clear and ls)
+Also supports running **other commands** (such as scripting commands like touch & cat, python, clear and ls)
